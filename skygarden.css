@@ -1,0 +1,96 @@
+body{
+  background: rgb(119,21,242);
+  background: linear-gradient(90deg, rgba(119,21,242,0.9486169467787114) 0%, rgba(251,97,85,0.9486169467787114) 42%, rgba(252,189,76,0.758140756302521) 100%);
+}
+.elevator{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  top: calc(8%);
+  left: calc(5%);
+  border-radius: 50px;
+  background: white;
+}
+.ed{
+  text-align: center;
+  padding-top: 55px;
+  font-size: 20px;
+  text-shadow: 2px 2px 5px red;
+}
+.fountain{
+  position: absolute;
+  width: 350px;
+  height: 350px;
+  top: calc(30%);
+  left: calc(30%);
+  border-radius: 100px;
+  border-style: double;
+}
+.fd{
+  text-align: center;
+  padding-top: 160px;
+}
+.flowers{
+  position: absolute;
+  height: 100px;
+  width: 500px;
+  top: calc(0%);
+  left: calc(30%);
+  border-style: dotted;
+}
+.flowers2{
+  position: absolute;
+  height: 450px;
+  width: 100px;
+  top: calc(32%);
+  left: calc(7%);
+  border-style: dotted;
+}
+.fld{
+  text-align: center;
+  padding-top: 60px;
+}
+.table{
+  position: absolute;
+  height: 280px;
+  width: 150px;
+  top: calc(15%);
+  right: calc(10%);
+  border-style: inset;
+}
+.td{
+  text-align: center;
+  padding-top: 60px;
+}
+.bench{
+  position: absolute;
+  height: 200px;
+  width: 40px;
+  top: calc(12%);
+  right: calc(113%);
+  border-style: dashed;
+  border-radius: 50px;
+}
+.dog{
+  position: absolute;
+  border-bottom: 50px solid #555;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  height: 0;
+  width: 205px;
+  bottom: calc(25%);
+  right: calc(10%);
+}
+.dd{
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+}
+.dogbottom{
+  position: absolute;
+  height: 100px;
+  width: 250px;
+  bottom: calc(11%);
+  right: calc(10%);
+  border-style: dotted;
+}

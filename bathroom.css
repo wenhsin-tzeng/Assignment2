@@ -1,0 +1,83 @@
+body{
+  background: rgb(20,50,232);
+  background: linear-gradient(90deg, rgba(20,50,232,0.9122023809523809) 0%, rgba(85,151,251,0.9486169467787114) 42%, rgba(76,252,249,0.758140756302521) 100%);
+}
+.kitchen{
+  position: absolute;
+  width: 100px;
+  height: 250px;
+  top: calc(30%);
+  left: calc(0%);
+  background: white;
+}
+.kd{
+  text-align: center;
+  padding-top: 100px;
+  color: brown;
+  font-size: 22px;
+  text-shadow: 2px 2px 5px yellow;
+}
+.window{
+  position: absolute;
+  height: 100vh;
+  width: 40px;
+  border-style: dashed;
+  top: calc(0%);
+  right: calc(3%);
+}
+.wd{
+  text-align: center;
+  padding-top: 300px;
+}
+.bathtub{
+  position: absolute;
+  height: 500px;
+  width: 270px;
+  border-style: dotted;
+  top: calc(17%);
+  right: calc(10%);
+  border-radius: 50px;
+}
+.nametag{
+  text-align: center;
+  padding-top: 50px;
+}
+.showerroom{
+  position: absolute;
+  height: 150px;
+  width: 270px;
+  border-style: dotted;
+  bottom: calc(0%);
+  right: calc(34%);
+  border-radius: 10px;
+}
+.cabinet{
+  position: absolute;
+  height: 150px;
+  width: 250px;
+  border-style: double;
+  bottom: calc(0%);
+  right: calc(56%);
+  border-radius: 20px;
+}
+.sink{
+  position: absolute;
+  height: 110px;
+  width: 650px;
+  border-style: solid;
+  top: calc(8%);
+  left: calc(16%);
+}
+.mirror{
+  position: absolute;
+  height: 50px;
+  width: 260px;
+  border-style: solid;
+  top: calc(0%);
+  left: calc(29.9%);
+  border-radius: 40px;
+}
+.lv{
+  color: white;
+  font-size: 20px;
+}
